@@ -1,4 +1,4 @@
-#### Mac实用技巧——在Finder中显示文件完整路径
+### Mac实用技巧——在Finder中显示文件完整路径
 
 
 Finder默认是不显示路径的(顶部标题)，进入某个文件夹时只会显示当前文件夹的名字。
@@ -20,5 +20,4 @@ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
  
 ```
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool NO
-
 ```
