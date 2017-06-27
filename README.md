@@ -1,5 +1,5 @@
 # MacTips
-Lots of useful tips for Mac
+Lots of useful tips for Mac:
 
 * [Adjust Mouse(Touchpad) Speed - 调整鼠标(触摸板)移动速度](/adjust_mouse_speed.md)
 * [Delete DS File - 删除DS文件](/delete_ds_file.md)
@@ -18,4 +18,5 @@ Lots of useful tips for Mac
 * [Speed Up Cursor Movement - 加速光标移动](/speed_up_cursor_movement.md)
 * [Delete File Using Terminal In Recycle Bin - 利用Terminal命令来删除回收站的文件](/delete_file_using_terminal_in_recycle_bin.md)
 
-* [My Mac Apps](/MyMacApps.md)
+
+**PS:** [My Mac Apps](/MyMacApps.md)
