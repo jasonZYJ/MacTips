@@ -4,7 +4,7 @@ Lots of useful tips for Mac:
 * [Adjust Mouse(Touchpad) Speed - 调整鼠标(触摸板)移动速度](/adjust_mouse_speed.md)
 * [Delete DS File - 删除DS文件](/delete_ds_file.md)
 * [Disable SIP(System Integrity Protection) - 关闭SIP](/disable_SIP.md)
-* [Dock Hide Speed - Doc隐藏速度](/dock_hide_speed.md)
+* [Dock Hide Speed - Dock隐藏速度](/dock_hide_speed.md)
 * [Display Finder Full Path - 显示Finder完整路径](/finder_full_path_display.md)
 * [Quick Lock Mac - 快速锁定Mac](/quick_lock_mac.md)
 * [Refactor App Crash Report - 优化软件崩溃报告提示](/refactor_app_crash_report.md)
