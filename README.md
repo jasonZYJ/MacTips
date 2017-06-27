@@ -13,6 +13,9 @@ Lots of useful tips for Mac
 * [Show Storage on Finder Footer - 在Finder底部显示剩余硬盘大小](/storage_on_finder_footer.md)
 * [Temp Undo StartUp Apps - 临时取消开机启动项的软件](/temp_undo_startup_apps.md)
 * [Usb Boot Driver - USB 启动盘的制作](/usb_boot_driver.md)
-
+* [Custom Adjust Statusbar Icon Position - 自定义状态栏图标位置](/custom_statusbar_icon_position.md)
+* [Slight Adjust System Volume - 微调Mac音量](/slight_adjust_system_volume.md)
+* [Speed Up Cursor Movement - 加速光标移动](/speed_up_cursor_movement.md)
+* [Delete File Using Terminal In Recycle Bin - 利用Terminal命令来删除回收站的文件](/delete_file_using_terminal_in_recycle_bin.md)
 
 * [My Mac Apps](/MyMacApps.md)
