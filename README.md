@@ -17,6 +17,7 @@ Lots of useful tips for Mac:
 * [Slight Adjust System Volume - 微调Mac音量](/slight_adjust_system_volume.md)
 * [Speed Up Cursor Movement - 加速光标移动](/speed_up_cursor_movement.md)
 * [Delete File Using Terminal In Recycle Bin - 利用Terminal命令来删除回收站的文件](/delete_file_using_terminal_in_recycle_bin.md)
+* [Rename Multiple Files Name One Time - 批量重命名文件](/rename_multiple_files_one_time.md)
 
 
 **PS:** [My Mac Apps](/MyMacApps.md)

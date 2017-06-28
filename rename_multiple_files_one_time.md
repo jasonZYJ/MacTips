@@ -10,15 +10,13 @@
 
 ![](/images/rename_multiple_files_one_time2.jpg)
 
-![](/images/rename_multiple_files_one_time3.jpg)
-
 
 `替换文本`顾名思义是替换选中文件中的共同文字，就像 Word 里一样；`添加文本`是在名称之前或后增添文字（目前还不能加在文字当中）。
 
-![](/images/rename_multiple_files_one_time4.jpg)
+![](/images/rename_multiple_files_one_time3.jpg)
 
 `格式`是根据所需进行`名称和索引`、`名称和计数`、`名称和日期`按所需改名，示例一目了然，你可以选择从任何大小的阿拉伯数字开始升序命名（暂不支持拉丁数字、英文单词或汉字）。
 如下所示就是成功修改了。
 
-![](/images/rename_multiple_files_one_time5.jpg)
+![](/images/rename_multiple_files_one_time4.jpg)
 
