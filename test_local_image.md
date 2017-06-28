@@ -1,1 +1,1 @@
-![](file:////images/test_markdown.jpg)
+![](/images/test_markdown.jpg)
