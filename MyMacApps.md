@@ -85,6 +85,7 @@
 | 78.Flux | Adjust screen light based on sunrise and sunset | Y |
 | 79.MenuBar Status | display cpu, disk, memory on menu | N |
 | 80.KeyCastr | KeyBoard Record | Y |
+| 81.[OnyX](https://www.titanium-software.fr/en/index.html) | OnyX is a multifunction utility for macOS which you can use to verify the startup disk and the structure of its system files, to run miscellaneous tasks of cleaning and system maintenance, to configure some hidden parameters of many of Apple’s applications, and more. | Y |
 | 
 
 
