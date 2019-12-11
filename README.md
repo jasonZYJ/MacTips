@@ -20,5 +20,6 @@ Lots of useful tips for Mac:
 * [Rename Multiple Files Name One Time - 批量重命名文件](/rename_multiple_files_one_time.md)
 * [Display Active Apps Only On Dock - Dock只显示已打开的Apps](/display_active_apps_only_on_dock.md)
 * [Make Finder Icon Adorable - 使Finder图标更可爱](/make_finder_icon_adorable.md)
+* [Mac 系统禁用 ReportCrash 进程](/disable_reportcrash_process.md)
 
 **PS:** [My Mac Apps](/MyMacApps.md)
