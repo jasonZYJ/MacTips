@@ -87,3 +87,4 @@
 | 80.KeyCastr | KeyBoard Record | Y |
 | 81.[OnyX](https://www.titanium-software.fr/en/index.html) | OnyX is a multifunction utility for macOS which you can use to verify the startup disk and the structure of its system files, to run miscellaneous tasks of cleaning and system maintenance, to configure some hidden parameters of many of Apple’s applications, and more. | Y |
 | 82.OpenInTerminal | Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. | Y |
+|83.AnotherRedisDesktopManager | 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys. | Y |

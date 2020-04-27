@@ -28,6 +28,8 @@ Lots of useful tips for Mac:
 * [如何在 macOS Catalina 中运行 64 位 KindleGen](/run_64_bit_kindlegen_on_mac_ catalina.md)
 * [一招搞定GitHub下载加速](/github_download_speeding_up.md)
 * [Mac使用Homebrew更新Python3](/dev_env_config/homebrew_update_python3.md)
+* [解决 zsh: command not found: node](/zsh_command_not_found.md)
+* [Chrome浏览器的缓存文件位置在哪](/chrome_cached_file_address.md)
 
 **PS:**
 * [My Mac Apps 我的 MacBook Pro 所安装的软件](/MyMacApps.md)
