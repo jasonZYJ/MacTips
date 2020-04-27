@@ -25,7 +25,7 @@ Lots of useful tips for Mac:
 * [MAC下安装配置Tomcat(安装包)](/dev_env_config/tomcat_with_binary_distributions.md)
 * [用一条指令在新款 Mac 上找回经典的开机启动声](/find_mac_startup_voice.md)
 * [官方转换工具 Kindle Previewer 和 KindleGen](/kindle_previewer_and_kindlegen.md)
-* [如何在 macOS Catalina 中运行 64 位 KindleGen](/run_64_bit_kindlegen_on_mac_ catalina.md)
+* [如何在 macOS Catalina 中运行 64 位 KindleGen](/run_64_bit_kindlegen_on_mac_catalina.md)
 * [一招搞定GitHub下载加速](/github_download_speeding_up.md)
 * [Mac使用Homebrew更新Python3](/dev_env_config/homebrew_update_python3.md)
 * [解决 zsh: command not found: node](/zsh_command_not_found.md)
