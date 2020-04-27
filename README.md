@@ -21,5 +21,11 @@ Lots of useful tips for Mac:
 * [Display Active Apps Only On Dock - Dock只显示已打开的Apps](/display_active_apps_only_on_dock.md)
 * [Make Finder Icon Adorable - 使Finder图标更可爱](/make_finder_icon_adorable.md)
 * [Mac 系统禁用 ReportCrash 进程](/disable_reportcrash_process.md)
+* [Mac 上 brew 安装Tomcat](/dev_env_config/tomcat_with_homebrew.md)
+* [MAC下安装配置Tomcat(安装包)](/dev_env_config/tomcat_with_binary_distributions.md)
+* [用一条指令在新款 Mac 上找回经典的开机启动声](/find_mac_startup_voice.md)
+* [官方转换工具 Kindle Previewer 和 KindleGen](/kindle_previewer_and_kindlegen.md)
+* [如何在 macOS Catalina 中运行 64 位 KindleGen](/run_64_bit_kindlegen_on_mac_ catalina.md)
+* [一招搞定GitHub下载加速](/github_download_speeding_up.md)
 
 **PS:** [My Mac Apps](/MyMacApps.md)
